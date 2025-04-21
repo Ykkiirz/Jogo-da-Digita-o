@@ -1,0 +1,7 @@
+[
+    {"imagem": "cafe.png", "corretas": ["café"], "erradas": ["cafe", "cafê"]},
+    {"imagem": "lapis.png", "corretas": ["lápis"], "erradas": ["lapis", "lâpis"]},
+    {"imagem": "passaro.png", "corretas": ["pássaro"], "erradas": ["passaro", "pássaro"]},
+    {"imagem": "lampada.png", "corretas": ["lâmpada"], "erradas": ["lampada", "lâmpâda"]},
+    {"imagem": "pe.png", "corretas": ["pé"], "erradas": ["pe", "pê"]}
+]
